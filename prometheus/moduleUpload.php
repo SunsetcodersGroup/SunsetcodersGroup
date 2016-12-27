@@ -1,4 +1,10 @@
 <?php
+/**
+ * Unload module
+ *
+ * @author          Andrew Jeffries
+ * @version         1.0.0               2016-12-27 14:06:57 SM:  Prototype - added header.
+ */
 
 if ($handle = opendir('prom_modules')) {
     while (false !== ($entry = readdir($handle))) {
@@ -13,8 +19,19 @@ if ($handle = opendir('prom_modules')) {
     closedir($handle);
 }
 
+/**
+ * Row checking function.
+ *
+ * @param string $fileName The file to check.
+ * @param string $author The author of the file.
+ * @param string $version The file version.
+ * @param string $description The file description.
+ * @return void
+ */
 function checkForRow($fileName, $author, $version, $description) {
 
+    // SM:  TO DO:  Use the database module to get this connection, or include
+    //              a DB object in the parameters for this function.
     $servername = "120.146.222.154";
     $username = "root";
     $password = "Aort101ms!";
