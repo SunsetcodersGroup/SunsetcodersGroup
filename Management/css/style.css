@@ -1,0 +1,78 @@
+
+body
+{
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+h1
+{
+    font-size: 16pt;
+    clear: both;
+}
+#management-background
+{
+    width: 100%;
+}
+
+.project-header
+{
+    font-size: 10pt; 
+    width: 35%;
+    color: #e17b31;
+    border-left: 3px #fff solid;
+    border-right: 1px solid #fff;
+}
+
+a.project-weblink
+{
+    font-size: 8pt; 
+    text-transform: lowercase;
+    color: #e17b31;
+    text-decoration: none;
+}
+
+.spacer
+{
+  clear: both;
+  height: 30px;
+}
+
+.project-menu, project-subheader, .project-information
+{
+    border-right: 1px solid #fff;
+}
+.project-menu
+{
+    font-size: 10pt; 
+    line-height: 30px;
+    width: 10%;
+    border-left: 1px solid #fff;
+    text-align: center;
+}
+
+.project-subheader
+{
+    width: 35%;
+    background-color: #e1e1e1;
+    border-left: 3px #e17b31 solid;
+    font-size: 10pt; 
+}
+
+.project-information
+{
+    line-height: 30px;
+    font-size: 10pt; 
+    width: 10%;
+    border-left: 1px solid #fff;
+    text-align: center;
+    background-color: #e1e1e1;
+}
+
+.project-information, .project-subheader, .project-menu, .project-header
+{
+    float: left;
+    height: 30px;
+    text-transform: uppercase;
+    padding: 10px;
+    border-bottom: 3px #fff solid;
+}
