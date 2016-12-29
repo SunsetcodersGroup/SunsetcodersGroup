@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>LBA Beauty - For all your beauty needs.</title>
-        <meta name="description" content="LBA Beauty - LBA Beauty is Mildura’s only sugaring hair removal salon.  Using the ancient Egyptian method hair is removed in its natural direction using a 100% natural product made from sugar, lemon juice and water. ">
+        <title>Sunsecoders Group. Management Tool.</title>
+        <meta name="description" content="Sunsetcoders Group. Management Tool. ">
         <meta charset="UTF-8">
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="/css/style.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-        <link rel="canonical" href="http://www.lbabeauty.tk/" />
+        <link rel="canonical" href="http://www.sunsetcodersgroup.tk/" />
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
         <script>
             (function (i, s, o, g, r, a, m) {
@@ -113,26 +113,7 @@
             }
         </style>
         <div id="header-background">
-            <div class="top-bar"></div>
-            <div class="body-content">
-                <div class="left-header-bar">
-                    <img class="header-image" src="<?php echo IMAGE_PATH . '/' . 'logo.png'; ?>">
-                </div>
-                <div class="middle-header-bar">
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="http://www.lbabeauty.tk/index.php/Services">Services</a></li>
-                        <li><a href="http://www.lbabeauty.tk/index.php/Products">Products</a></li>
-                        <li><a href="http://www.lbabeauty.tk/index.php/Contact">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="right-header-bar">
-                    <img class="social-media-icon" src="<?php echo IMAGE_PATH . '/' . 'fb.jpg'; ?>">
-                    <img class="social-media-icon" src="<?php echo IMAGE_PATH . '/' . 'tw.jpg'; ?>"> 
-                    <img class="social-media-icon" src="<?php echo IMAGE_PATH . '/' . 'ig.jpg'; ?>"> 
-                    +61 1800 522 232 <br> <a href="mailto:allison@lbabeauty.com">allison@lbabeauty.com</a>
-                </div>
-            </div>   
+            Sunsetcoders Group
         </div> 
 
 
