@@ -2,13 +2,6 @@
 
 $dbTriConnection = databaseConnection();
 
-
-/*
- * The Following Snippet is to insert the module table into the mysqli table. 
- */
-
-
-
 require_once dirname(dirname(__FILE__)) . '/SunLibraryModule.php';
 
 class about extends SunLibraryModule {
