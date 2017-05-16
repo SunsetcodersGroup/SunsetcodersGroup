@@ -54,7 +54,8 @@ function menu() {
 
         echo '<li id="item-' . $menuLabel . '">' . $menuLabel . '</li>';
     }
-    ?></ul>
+    ?>
+    </ul>
    
     </td></tr>
     <tr><td colspan=3></td></tr>

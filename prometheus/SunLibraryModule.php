@@ -16,7 +16,6 @@ abstract class SunLibraryModule
      * Constructor.
      *
      * @param \mysqli $objDB Connection to the database.
-     * @return void
      */
     public function __construct(\mysqli $objDB)
     {
@@ -105,6 +104,8 @@ abstract class SunLibraryModule
     
     /**
      * Helper function to retrieve the version number from a given file.
+     *
+     * @param string $txtFile The File to be tested for file attributes.
      *
      * @return string A string value with the full version number of the specified file.
      */

@@ -41,7 +41,7 @@ function stylesheet() {
     $styleSheet = file_get_contents('../css/style.css');
     ?>
     <form method="POST" action="?id=Settings&&moduleID=updateStylesheet">
-        <div><textarea name="newStyleSheet" style="width: 80%; height: 600px; frameborder: 0; resize: no;" >
+        <div><textarea name="newStyleSheet" style="width: 80%; height: 600px; frameborder: 0; resize: none;" >
     <?php echo strip_tags($styleSheet); ?>
             </textarea>
         </div>

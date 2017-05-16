@@ -10,7 +10,7 @@
 
     #welcome-background
     {
-        background-image: url("../Images/stoneback.jpg");
+        background-image: url("/Images/stoneback.jpg");
         width: 100%;
         height: 400px;
     }

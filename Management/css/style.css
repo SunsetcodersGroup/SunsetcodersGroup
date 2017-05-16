@@ -79,7 +79,7 @@ a.project-weblink
     height: 30px;
 }
 
-.project-menu, project-subheader, .project-information
+.project-menu, .project-subheader, .project-information
 {
     border-right: 1px solid #fff;
 }
