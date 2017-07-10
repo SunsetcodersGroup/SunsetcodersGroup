@@ -15,30 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function_class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <marker date="1494943971320" expanded="true" signature="860:1003" ph="SELECT pages... pages" />
-                <marker date="1494943971320" expanded="true" signature="1351:1408" ph="SELECT conte... content_editor" />
-                <marker date="1494943971320" expanded="true" signature="2078:2136" ph="SELECT setti... settings" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="prom_authentication.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prometheus/prom_content/prom_authentication.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -77,6 +53,34 @@
               <folding>
                 <marker date="1494943971339" expanded="true" signature="3344:3428" ph="SELECT menuL... menus" />
                 <marker date="1494943971339" expanded="true" signature="3886:3970" ph="SELECT menuL... menus" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../iridescentart/prometheus/prom_modules/shop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1493725931301" expanded="true" signature="1354:1468" ph="SELECT produ... theshop" />
+                <marker date="1493725931301" expanded="true" signature="2244:2272" ph="select 1 fro... shop" />
+                <marker date="1493725931301" expanded="true" signature="2358:2490" ph="CREATE TABLE... shop" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function_class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../iridescentart/function_class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+              <folding>
+                <marker date="1493725903526" expanded="true" signature="964:1107" ph="SELECT pages... pages" />
+                <marker date="1493725903526" expanded="true" signature="1491:1548" ph="SELECT conte... content_editor" />
+                <marker date="1493725903526" expanded="true" signature="2109:2167" ph="SELECT setti... settings" />
               </folding>
             </state>
           </provider>
@@ -192,7 +196,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1934" />
+    <option name="width" value="1933" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -335,18 +339,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494944390199</updated>
-      <workItem from="1494944391646" duration="1759000" />
+      <workItem from="1494944391646" duration="3641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1759000" />
+    <option name="totallyTimeSpent" value="3641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1933" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09008529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09013333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -505,6 +508,30 @@
           <folding>
             <marker date="1494943971339" expanded="true" signature="3344:3428" ph="SELECT menuL... menus" />
             <marker date="1494943971339" expanded="true" signature="3886:3970" ph="SELECT menuL... menus" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iridescentart/prometheus/prom_modules/shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1493725931301" expanded="true" signature="1354:1468" ph="SELECT produ... theshop" />
+            <marker date="1493725931301" expanded="true" signature="2244:2272" ph="select 1 fro... shop" />
+            <marker date="1493725931301" expanded="true" signature="2358:2490" ph="CREATE TABLE... shop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../iridescentart/function_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1493725903526" expanded="true" signature="964:1107" ph="SELECT pages... pages" />
+            <marker date="1493725903526" expanded="true" signature="1491:1548" ph="SELECT conte... content_editor" />
+            <marker date="1493725903526" expanded="true" signature="2109:2167" ph="SELECT setti... settings" />
           </folding>
         </state>
       </provider>
